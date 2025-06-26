@@ -1,5 +1,3 @@
-# Marcus-Kristensen
-
 <h1 align="center">I'm Marcus</h1>
 <h3 align="center">A student from Denmark 🇩🇰</h3>
 
