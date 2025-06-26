@@ -1,11 +1,7 @@
 <h1 align="center">I'm Marcus</h1>
 <h3 align="center">A student from Denmark 🇩🇰</h3>
 
-- 🔭 I’m currently working on **building my own web portfolio.**
-
 - 🌱 I’m currently learning **Unity game engine.**
-
-- 📫 How to reach me **marcuskristensen10@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
