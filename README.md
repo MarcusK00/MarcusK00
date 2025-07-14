@@ -1,7 +1,6 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=marcusk00.marcusk00.visitor-badge"  />
 </div>
-###
 
 <h1 align="center"> Welcome👋 </h1>
 
