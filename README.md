@@ -1,8 +1,9 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=marcusk00.marcusk00.visitor-badge"  />
 </div>
+<div align="center"><h1 align="center"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=FFA07A&center=true&vCenter=true&width=435&multiline=true&lines=Welcome,%20I%27m%20Marcus!;"/></h1>
 
-<h1 align="center">Welcome 👋</h1>
+</div>
 
 <div align="center">
   <h3 align="left">Tools I use</h3>
