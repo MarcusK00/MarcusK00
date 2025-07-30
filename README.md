@@ -29,6 +29,8 @@
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" height="60" alt="dot-net logo"  />
   <img width="13" />
+    <img src="https://github.com/user-attachments/assets/e11d77f7-b3a8-4558-b9d4-5b500fb6d4d0" height="60" alt="Supabase logo"  />
+  <img width="13" />
 </div>
   <h2>Connect with me</h2>
 
