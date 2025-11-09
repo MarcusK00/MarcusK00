@@ -31,6 +31,8 @@
   <img width="13" />
     <img src="https://github.com/user-attachments/assets/e11d77f7-b3a8-4558-b9d4-5b500fb6d4d0" height="60" alt="Supabase logo"  />
   <img width="13" />
+    <img src="https://camo.githubusercontent.com/88b98e2c5e7f2344d98fe9a3aadb5c148ff52d885b64d702edbeb6ddb0681754/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f646f636b65722f646f636b65722d706c61696e2e737667" height="60" alt="Docker logo"  />
+  <img width="13" />
 </div>
   <h2>Connect with me</h2>
 
