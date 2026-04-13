@@ -11,7 +11,17 @@
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+  <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react native logo"  />
+  <img width="13" />
+  <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" height="60" alt="expo logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="60" alt="tailwindcss logo"  />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="13" />
@@ -23,7 +33,7 @@
   <img width="13" />
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="60" alt="unity logo"  />
   <img width="13" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="60" alt="sql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sql logo"  />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" height="60" alt="blazor logo"  />
   <img width="13" />
@@ -46,7 +56,6 @@
 
 ###
 
-
 ###
 
 ###
@@ -56,7 +65,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/murtazanoori/murtazanoori/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/murtazanoori/murtazanoori/output/pacman-contribution-graph.svg">
 </picture>
-
 
 
 ###
