@@ -7,39 +7,39 @@
 
 <div align="center">
   <h2 align="left">Languages</h2>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img title="CSharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
   <img width="13" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+    <img title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
   <img width="13" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+    <img title="Typescript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
   <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
   <img width="13" />
-    <img src="https://cdn.simpleicons.org/mysql/4479A1" height="60" alt="sql logo"  />
+    <img title="SQL" src="https://cdn.simpleicons.org/mysql/4479A1" height="60" alt="sql logo"  />
   <img width="13" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+      <img title="Html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
+  <img title="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
   <img width="13" />
   
   <h2 align="left">Frameworks & Tools</h2>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+  <img title="React.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
   <img width="13" />
-  <img src="https://cdn.simpleicons.org/expo/000000" height="60" alt="expo logo"  />
+  <img title="React-Native Expo" src="https://cdn.simpleicons.org/expo/000000" height="60" alt="expo logo"  />
   <img width="13" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="60" alt="tailwindcss logo"  />
+  <img title="Tailwind CSS" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="60" alt="tailwindcss logo"  />
   <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
   <img width="13" />
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="60" alt="unity logo"  />
+  <img title="Unity Game Engine" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" height="60" alt="unity logo"  />
   <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" height="60" alt="blazor logo"  />
+  <img title="Blazor" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" height="60" alt="blazor logo"  />
   <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" height="60" alt="dot-net logo"  />
+  <img title=".NET" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" height="60" alt="dot-net logo"  />
   <img width="13" />
-  <img src="https://github.com/user-attachments/assets/e11d77f7-b3a8-4558-b9d4-5b500fb6d4d0" height="60" alt="Supabase logo"  />
+  <img title="Supebase" src="https://github.com/user-attachments/assets/e11d77f7-b3a8-4558-b9d4-5b500fb6d4d0" height="60" alt="Supabase logo"  />
   <img width="13" />
-    <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="60" alt="firebase logo"  />
+    <img title="Firebase" src="https://cdn.simpleicons.org/firebase/FFCA28" height="60" alt="firebase logo"  />
   <img width="13" />
 </div>
   <h2>Connect with me</h2>
