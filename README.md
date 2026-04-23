@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->What's a computer's favorite snack?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->Microchips.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->While I was sleeping my friends decided to write math equations on me.<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->You should have seen the expression on my face when I woke up.<!--/PUNCH--></i></p>
 
 
 </div>
