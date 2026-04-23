@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->While I was sleeping my friends decided to write math equations on me.<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->You should have seen the expression on my face when I woke up.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->What did the Java code say to the C code?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->You've got no class.<!--/PUNCH--></i></p>
 
 
 </div>
