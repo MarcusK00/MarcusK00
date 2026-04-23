@@ -3,10 +3,11 @@
 </div>
 <div align="center">
 
-**Quote of the Day**
+**Joke of the Day**
 
 <blockquote>
-  <i> "<!--QUOTE--><!--QUOTE-->" </i>
+  <i> "<!--JOKE-->What's a computer's favorite snack?<!--JOKE-->" </i>
+   <i> "<!--PUNCH-->Microchips.<!--PUNCH-->" </i>
 </blockquote>
 
 </div>
