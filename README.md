@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->What did the Java code say to the C code?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->You've got no class.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->Why did the programmer always carry a pencil?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->They preferred to write in C#.<!--/PUNCH--></i></p>
 
 
 </div>
