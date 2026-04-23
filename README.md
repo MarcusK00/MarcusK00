@@ -29,6 +29,8 @@
   <img width="13" />
   
   <h2 align="left">Frameworks & Tools</h2>
+   <img title="Nest.js" src="https://nestjs.com/img/logo-small.svg" height="60" alt="Nest.js logo"  />
+  <img width="13" />
   <img title="React.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
   <img width="13" />
   <img title="React-Native Expo" src="https://cdn.simpleicons.org/expo/000000" height="60" alt="expo logo"  />
