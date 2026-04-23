@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->I had a dream that I was a muffler last night.<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->I woke up exhausted!<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->While I was sleeping my friends decided to write math equations on me.<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->You should have seen the expression on my face when I woke up.<!--/PUNCH--></i></p>
 
 
 </div>
