@@ -5,10 +5,11 @@
 
 **Joke of the Day**
 
-  <i> <!--JOKE-->What's a computer's favorite snack?<!--JOKE--> " </i>
+<blockquote>
+  <p> <!--JOKE-->What's a computer's favorite snack?<!--JOKE--> </p>
   <br>
-   <i> <!--PUNCH-->Microchips.<!--PUNCH--></i>
-
+   <i> <!--PUNCH-->Microchips.<!--PUNCH--> </i>
+</blockquote>
 
 </div>
 
