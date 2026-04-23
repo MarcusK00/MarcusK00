@@ -1,26 +1,42 @@
-name: Update README daily
+name: Daily README Joke Update
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
 
     steps:
+      # 1. Download your repo into the runner
       - uses: actions/checkout@v4
 
-      - name: Update README
-        run: |
-          DATE=$(date +'%Y-%m-%d')
-          sed -i "s/<!--DATE-->.*<!--\/DATE-->/<!--DATE-->$DATE<!--\/DATE-->/" README.md
+      # 2. Install Node.js
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
 
-      - name: Commit & push
+      # 3. Install dependencies
+      - name: Install dependencies
+        run: npm install
+
+      # 4. Run your TypeScript script
+      - name: Run update script
+        run: npx ts-node scripts/updateReadme.ts
+
+      # 5. Commit and push changes
+      - name: Commit changes
         run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add README.md
-          git commit -m "auto: update date" || exit 0
+
+          git commit -m "chore: daily joke update" || exit 0
+
           git push
