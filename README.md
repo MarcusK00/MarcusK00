@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->Why did the programmer always carry a pencil?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->They preferred to write in C#.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->How many React developers does it take to change a lightbulb?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->None, they prefer dark mode.<!--/PUNCH--></i></p>
 
 
 </div>
