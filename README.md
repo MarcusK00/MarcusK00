@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->Why did the private classes break up?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->Because they never saw each other.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->How do you check if a webpage is HTML5?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->Try it out on Internet Explorer<!--/PUNCH--></i></p>
 
 
 </div>
