@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->How many React developers does it take to change a lightbulb?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->None, they prefer dark mode.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->Why did the private classes break up?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->Because they never saw each other.<!--/PUNCH--></i></p>
 
 
 </div>
