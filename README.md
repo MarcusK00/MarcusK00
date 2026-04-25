@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->What is the most used language in programming?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->Profanity.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->Why dot net developers don't wear glasses?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->Because they see sharp.<!--/PUNCH--></i></p>
 
 
 </div>
