@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->Why did the programmer always mix up Halloween and Christmas?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->Because Oct 31 equals Dec 25.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->What is the most used language in programming?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->Profanity.<!--/PUNCH--></i></p>
 
 
 </div>
