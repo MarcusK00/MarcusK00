@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->A programmer puts two glasses on his bedside table before going to sleep.<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->A full one, in case he gets thirsty, and an empty one, in case he doesn’t.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->I was gonna tell you a joke about UDP...<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->...but you might not get it.<!--/PUNCH--></i></p>
 
 
 </div>
