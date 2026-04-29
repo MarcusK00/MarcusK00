@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->I was gonna tell you a joke about UDP...<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->...but you might not get it.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->How do you comfort a designer?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->You give them some space... between the elements.<!--/PUNCH--></i></p>
 
 
 </div>
