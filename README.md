@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->How do you comfort a designer?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->You give them some space... between the elements.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->How do you check if a webpage is HTML5?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->Try it out on Internet Explorer<!--/PUNCH--></i></p>
 
 
 </div>
