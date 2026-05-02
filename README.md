@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->Where did the API go to eat?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->To the RESTaurant.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->There are 10 types of people in this world...<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->Those who understand binary and those who don't<!--/PUNCH--></i></p>
 
 
 </div>
