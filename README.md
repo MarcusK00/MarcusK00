@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->There are 10 types of people in this world...<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->Those who understand binary and those who don't<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->What’s the object-oriented way to become wealthy?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->Inheritance.<!--/PUNCH--></i></p>
 
 
 </div>
