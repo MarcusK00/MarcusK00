@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->What's the object-oriented way to become wealthy?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->Inheritance<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->I was gonna tell you a joke about UDP...<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->...but you might not get it.<!--/PUNCH--></i></p>
 
 
 </div>
