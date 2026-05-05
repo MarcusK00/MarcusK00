@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->I was gonna tell you a joke about UDP...<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->...but you might not get it.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->Why did the programmer go to art school?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->He wanted to learn how to code outside the box.<!--/PUNCH--></i></p>
 
 
 </div>
