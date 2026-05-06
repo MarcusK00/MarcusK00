@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->Why did the programmer go to art school?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->He wanted to learn how to code outside the box.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->The punchline often arrives before the set-up.<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->Do you know the problem with UDP jokes?<!--/PUNCH--></i></p>
 
 
 </div>
