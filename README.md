@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->How do you check if a webpage is HTML5?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->Try it out on Internet Explorer<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->Why did the developer go to therapy?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->They had too many unresolved issues.<!--/PUNCH--></i></p>
 
 
 </div>
