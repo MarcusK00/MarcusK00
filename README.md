@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->Why did the developer go to therapy?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->They had too many unresolved issues.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->Hey, wanna hear a joke?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->Parsing HTML with regex.<!--/PUNCH--></i></p>
 
 
 </div>
