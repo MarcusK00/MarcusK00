@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->Hey, wanna hear a joke?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->Parsing HTML with regex.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->What do you get when you cross a React developer with a mathematician?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->A function component.<!--/PUNCH--></i></p>
 
 
 </div>
