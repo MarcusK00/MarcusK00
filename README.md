@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->What do you get when you cross a React developer with a mathematician?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->A function component.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->Why did the developer go to therapy?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->They had too many unresolved issues.<!--/PUNCH--></i></p>
 
 
 </div>
