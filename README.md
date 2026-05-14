@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->Why did the developer go broke buying Bitcoin?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->He kept calling it bytecoin and didn't get any.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->Where did the API go to eat?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->To the RESTaurant.<!--/PUNCH--></i></p>
 
 
 </div>
