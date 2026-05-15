@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->Where did the API go to eat?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->To the RESTaurant.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->Why did the developer break up with their keyboard?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->It just wasn't their type anymore.<!--/PUNCH--></i></p>
 
 
 </div>
