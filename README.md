@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->Why did the developer break up with their keyboard?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->It just wasn't their type anymore.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->Why did the programmer quit his job?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->Because he didn't get arrays.<!--/PUNCH--></i></p>
 
 
 </div>
