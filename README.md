@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->Why did the programmer quit his job?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->Because he didn't get arrays.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->Why do programmers always get Christmas and Halloween mixed up?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->Because DEC 25 = OCT 31<!--/PUNCH--></i></p>
 
 
 </div>
