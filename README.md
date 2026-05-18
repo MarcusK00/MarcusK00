@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->Why do programmers always get Christmas and Halloween mixed up?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->Because DEC 25 = OCT 31<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->Hey, wanna hear a joke?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->Parsing HTML with regex.<!--/PUNCH--></i></p>
 
 
 </div>
