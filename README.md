@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->What goes after USA?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->USB.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->There are 10 types of people in this world...<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->Those who understand binary and those who don't<!--/PUNCH--></i></p>
 
 
 </div>
