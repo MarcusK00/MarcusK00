@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->There are 10 types of people in this world...<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->Those who understand binary and those who don't<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->What's the best thing about a Boolean?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->Even if you're wrong, you're only off by a bit.<!--/PUNCH--></i></p>
 
 
 </div>
