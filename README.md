@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->What's the best thing about a Boolean?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->Even if you're wrong, you're only off by a bit.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->Why would a guitarist become a good programmer?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->He's adept at riffing in C#.<!--/PUNCH--></i></p>
 
 
 </div>
