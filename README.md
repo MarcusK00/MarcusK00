@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->Why dot net developers don't wear glasses?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->Because they see sharp.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->A SQL query walks into a bar, walks up to two tables and asks...<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->'Can I join you?'<!--/PUNCH--></i></p>
 
 
 </div>
