@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->A SQL query walks into a bar, walks up to two tables and asks...<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->'Can I join you?'<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->I just got fired from my job at the keyboard factory.<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->They told me I wasn't putting in enough shifts.<!--/PUNCH--></i></p>
 
 
 </div>
