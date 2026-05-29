@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->['hip', 'hip']<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->(hip hip array)<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->How do you comfort a designer?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->You give them some space... between the elements.<!--/PUNCH--></i></p>
 
 
 </div>
