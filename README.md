@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->How do you comfort a designer?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->You give them some space... between the elements.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->Why would a guitarist become a good programmer?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->He's adept at riffing in C#.<!--/PUNCH--></i></p>
 
 
 </div>
