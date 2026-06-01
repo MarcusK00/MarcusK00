@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->Why dot net developers don't wear glasses?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->Because they see sharp.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->Why did the programmer go broke?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->He used up all his cache<!--/PUNCH--></i></p>
 
 
 </div>
