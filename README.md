@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->Why did the programmer go broke?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->He used up all his cache<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->What did the router say to the doctor?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->It hurts when IP.<!--/PUNCH--></i></p>
 
 
 </div>
