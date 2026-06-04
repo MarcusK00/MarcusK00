@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->Why do programmers always get Christmas and Halloween mixed up?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->Because DEC 25 = OCT 31<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->There are 10 types of people in this world...<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->Those who understand binary and those who don't<!--/PUNCH--></i></p>
 
 
 </div>
