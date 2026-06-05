@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->There are 10 types of people in this world...<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->Those who understand binary and those who don't<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->What's the best part about TCP jokes?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->I get to keep telling them until you get them.<!--/PUNCH--></i></p>
 
 
 </div>
