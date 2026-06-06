@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->What's the best part about TCP jokes?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->I get to keep telling them until you get them.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->Why would a guitarist become a good programmer?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->He's adept at riffing in C#.<!--/PUNCH--></i></p>
 
 
 </div>
