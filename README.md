@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->Why would a guitarist become a good programmer?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->He's adept at riffing in C#.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->To understand what recursion is...<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->You must first understand what recursion is<!--/PUNCH--></i></p>
 
 
 </div>
