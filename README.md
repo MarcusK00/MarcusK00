@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->To understand what recursion is...<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->You must first understand what recursion is<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->Where did the API go to eat?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->To the RESTaurant.<!--/PUNCH--></i></p>
 
 
 </div>
