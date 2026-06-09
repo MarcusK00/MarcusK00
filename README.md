@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->Where did the API go to eat?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->To the RESTaurant.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->Why did the programmer's wife leave him?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->He didn't know how to commit.<!--/PUNCH--></i></p>
 
 
 </div>
