@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->Why did the programmer's wife leave him?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->He didn't know how to commit.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->Lady: How do I spread love in this cruel world?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->Random Dude: [...💘]<!--/PUNCH--></i></p>
 
 
 </div>
