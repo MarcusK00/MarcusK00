@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->Lady: How do I spread love in this cruel world?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->Random Dude: [...💘]<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->Hey, wanna hear a joke?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->Parsing HTML with regex.<!--/PUNCH--></i></p>
 
 
 </div>
