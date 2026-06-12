@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->Hey, wanna hear a joke?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->Parsing HTML with regex.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->Why did the developer break up with their keyboard?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->It just wasn't their type anymore.<!--/PUNCH--></i></p>
 
 
 </div>
