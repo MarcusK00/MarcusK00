@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->Why did the developer break up with their keyboard?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->It just wasn't their type anymore.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->Why did the programmer go broke?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->He used up all his cache<!--/PUNCH--></i></p>
 
 
 </div>
