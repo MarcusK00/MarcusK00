@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->Why did the programmer go broke?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->He used up all his cache<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->Why did the programmer bring a ladder to work?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->They heard the code needed to be debugged from a higher level.<!--/PUNCH--></i></p>
 
 
 </div>
