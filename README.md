@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->Why did the programmer bring a ladder to work?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->They heard the code needed to be debugged from a higher level.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->What's the best thing about a Boolean?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->Even if you're wrong, you're only off by a bit.<!--/PUNCH--></i></p>
 
 
 </div>
