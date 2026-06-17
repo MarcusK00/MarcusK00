@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->Why don't programmers like nature?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->Too many bugs.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->Why would a guitarist become a good programmer?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->He's adept at riffing in C#.<!--/PUNCH--></i></p>
 
 
 </div>
