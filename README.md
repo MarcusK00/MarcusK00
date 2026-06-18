@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->Why would a guitarist become a good programmer?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->He's adept at riffing in C#.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->What is the most used language in programming?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->Profanity.<!--/PUNCH--></i></p>
 
 
 </div>
