@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->What is the most used language in programming?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->Profanity.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->Why did the developer go broke buying Bitcoin?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->He kept calling it bytecoin and didn't get any.<!--/PUNCH--></i></p>
 
 
 </div>
