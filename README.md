@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->Why did the developer go broke buying Bitcoin?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->He kept calling it bytecoin and didn't get any.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->What do you get when you cross a React developer with a mathematician?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->A function component.<!--/PUNCH--></i></p>
 
 
 </div>
