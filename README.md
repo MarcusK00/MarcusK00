@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->What did the Java code say to the C code?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->You've got no class.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->Why did the programmer bring a broom to work?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->To clean up all the bugs.<!--/PUNCH--></i></p>
 
 
 </div>
