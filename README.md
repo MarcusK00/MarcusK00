@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->Why did the programmer bring a broom to work?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->To clean up all the bugs.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->There are 10 types of people in this world...<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->Those who understand binary and those who don't<!--/PUNCH--></i></p>
 
 
 </div>
