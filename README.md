@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->There are 10 types of people in this world...<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->Those who understand binary and those who don't<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->Why did the programmer always carry a pencil?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->They preferred to write in C#.<!--/PUNCH--></i></p>
 
 
 </div>
