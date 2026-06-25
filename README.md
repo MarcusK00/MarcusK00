@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->Why did the programmer always carry a pencil?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->They preferred to write in C#.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->I just got fired from my job at the keyboard factory.<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->They told me I wasn't putting in enough shifts.<!--/PUNCH--></i></p>
 
 
 </div>
