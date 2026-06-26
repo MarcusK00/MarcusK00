@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->I just got fired from my job at the keyboard factory.<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->They told me I wasn't putting in enough shifts.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->How many programmers does it take to change a lightbulb?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->None that's a hardware problem<!--/PUNCH--></i></p>
 
 
 </div>
