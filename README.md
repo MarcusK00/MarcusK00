@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->How many programmers does it take to change a lightbulb?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->None that's a hardware problem<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->A SQL query walks into a bar, walks up to two tables and asks...<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->'Can I join you?'<!--/PUNCH--></i></p>
 
 
 </div>
