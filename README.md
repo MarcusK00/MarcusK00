@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->A SQL query walks into a bar, walks up to two tables and asks...<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->'Can I join you?'<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->An IPv6 packet is walking out of the house.<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->He goes nowhere.<!--/PUNCH--></i></p>
 
 
 </div>
