@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->An IPv6 packet is walking out of the house.<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->He goes nowhere.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->Why did the programmer quit his job?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->Because he didn't get arrays.<!--/PUNCH--></i></p>
 
 
 </div>
