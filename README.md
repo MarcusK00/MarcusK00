@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->How many React developers does it take to change a lightbulb?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->None, they prefer dark mode.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->Lady: How do I spread love in this cruel world?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->Random Dude: [...💘]<!--/PUNCH--></i></p>
 
 
 </div>
