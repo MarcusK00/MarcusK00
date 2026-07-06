@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->Lady: How do I spread love in this cruel world?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->Random Dude: [...💘]<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->Why don't React developers like nature?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->They prefer the virtual DOM.<!--/PUNCH--></i></p>
 
 
 </div>
