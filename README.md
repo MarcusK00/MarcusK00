@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->Why don't React developers like nature?<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->They prefer the virtual DOM.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->I was gonna tell you a joke about UDP...<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->...but you might not get it.<!--/PUNCH--></i></p>
 
 
 </div>
