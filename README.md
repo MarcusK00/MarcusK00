@@ -5,8 +5,8 @@
 
 **Joke of the Day**
 
-<p><i><!--JOKE-->I was gonna tell you a joke about UDP...<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->...but you might not get it.<!--/PUNCH--></i></p>
+<p><i><!--JOKE-->Why do programmers always get Christmas and Halloween mixed up?<!--/JOKE--></i></p>
+<p><i><!--PUNCH-->Because DEC 25 = OCT 31<!--/PUNCH--></i></p>
 
 
 </div>
