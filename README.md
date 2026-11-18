@@ -1,13 +1,6 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=marcusk00.marcusk00.visitor-badge"  />
 </div>
-<div align="center">
-
-<p><i><!--JOKE-->I was gonna tell you a joke about UDP...<!--/JOKE--></i></p>
-<p><i><!--PUNCH-->...but you might not get it.<!--/PUNCH--></i></p>
-
-
-</div>
 
 <div align="center">
   <h2 align="left">Languages</h2>
